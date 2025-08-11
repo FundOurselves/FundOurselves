@@ -1,11 +1,10 @@
-# Fund Ourselves
+# Finular
 
-Fund Ourselves is a short-term loan provider offering direct and peer-to-peer lending, providing short-term loans through our online application process.
 We are a group of passionate FinTech experts, coupled with a friendly customer support team with a shared vision to make a difference in the underserved consumer credit market. We aim to make credit accessible to those who need it and make financial lives simpler, better, and more convenient.
 
-https://fundourselves.com/
+https://finular.com/
 
-To match borrowers and investors, we use our custom business logic engine, with Auto-match™ and Auto-diversify™ algorithms. We operate in a high-volume low-margin business, building scalable and secure internet platforms, targeting multiple markets. Due to huge data volumes, we use in-house machine learning and AI for data analysis, and constantly monitor innovations in the data-analytics space.
+To match borrowers and investors, we use our custom business logic engine. We operate in a high-volume low-margin business, building scalable and secure internet platforms, targeting multiple markets. Due to huge data volumes, we use in-house machine learning and AI for data analysis, and constantly monitor innovations in the data-analytics space.
 
 We have an in-house development team. We don't do off-shore development, but we might also collaborate with other talented individuals. We support a lot of open source development.
 
